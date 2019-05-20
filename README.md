@@ -3,7 +3,7 @@ Homework - Week 2 - VBA and Excel
 
 I have included two files:
 
-1. Results_Homework_Week2.docx (includes screenshots of the three years of stocks reported. Results match for 2015. Results included for the "Hard" option. Challenge option also completed (see VBA file).
+1. Results_Homework_Week2 (both a .docx and .pdf extensions). It includes screenshots of the three years of stocks reported. Results match for 2015. Results included for the "Hard" option. Challenge option also completed (see VBA file).
 
 2. Module1.bas file includes an extract of the VBA code. There are two sub definitions:
 
